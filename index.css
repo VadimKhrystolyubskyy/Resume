@@ -1,0 +1,276 @@
+.child {
+  position: absolute;
+  top: 7px;
+  left: calc(50% - 103px);
+  border-radius: 25px;
+  background-color: #f0f510;
+  width: 200px;
+  height: 90px;
+}
+.p {
+  margin: 0;
+}
+.div2 {
+  position: absolute;
+  top: 16px;
+  left: 55px;
+  font-size: 24px;
+  display: inline-block;
+  width: 180px;
+  height: 64px;
+}
+.div4,
+.sales-boot-camp-container {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 296px;
+  height: 29px;
+}
+.sales-boot-camp-container {
+  top: 32px;
+  left: 9px;
+  font-size: var(--font-size-xs);
+  width: 287px;
+  height: 61px;
+}
+.div3 {
+  position: absolute;
+  top: 607px;
+  left: 0;
+  width: 296px;
+  height: 93px;
+  overflow: hidden;
+}
+.blank-line {
+  color: var(--color-black);
+}
+.blank-line,
+.blank-line3 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.straight-line-getting-container {
+  position: absolute;
+  top: calc(50% - 152.5px);
+  left: 0;
+  display: inline-block;
+  width: 296px;
+  height: 356px;
+}
+.hard-skills,
+.p5 {
+  color: var(--color-red);
+}
+.hard-skills {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 296px;
+  height: 407px;
+  overflow: hidden;
+  text-align: left;
+}
+.p5 {
+  margin: 0;
+}
+.google- {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  display: inline-block;
+  width: 292px;
+  height: 150px;
+}
+.div1,
+.soft-slills {
+  position: absolute;
+  overflow: hidden;
+}
+.soft-slills {
+  top: 459px;
+  left: 0;
+  width: 292px;
+  height: 150px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.div1 {
+  top: 0;
+  left: 204px;
+  background-color: #bbb;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 296px;
+  height: 700px;
+  mix-blend-mode: normal;
+}
+.item {
+  background-color: #d9d9d9;
+  width: 500px;
+  height: 700px;
+}
+.ellipse-icon,
+.inner,
+.item {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.inner {
+  background-color: #6d14b8;
+  width: 204px;
+  height: 700px;
+}
+.ellipse-icon {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+.direct-meneger,
+.div6 {
+  position: absolute;
+  text-align: left;
+  display: inline-block;
+}
+.div6 {
+  top: 215px;
+  left: 8px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 196px;
+  height: 42px;
+}
+.direct-meneger {
+  top: 257px;
+  left: 17px;
+  color: var(--color-black);
+  width: 163px;
+  height: 30px;
+}
+.div7,
+.div9,
+.mad-skier {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.div7 {
+  top: 296px;
+  font-size: 22px;
+  width: 180px;
+  height: 43px;
+}
+.div9,
+.mad-skier {
+  top: 60px;
+  width: 140px;
+  height: 20px;
+}
+.mad-skier {
+  top: 16px;
+}
+.hrystolyubskyy-vadim,
+.vovkvadim02gmailcom {
+  position: absolute;
+  display: inline-block;
+  width: 153px;
+  height: 20px;
+}
+.hrystolyubskyy-vadim {
+  top: calc(50% + 14px);
+  left: -3px;
+}
+.vovkvadim02gmailcom {
+  top: 148px;
+  left: 0;
+  font-size: var(--font-size-xs);
+}
+.div11,
+.div8 {
+  position: absolute;
+}
+.div8 {
+  top: 328px;
+  left: 51px;
+  width: 153px;
+  height: 180px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+}
+.div11 {
+  top: 6px;
+  left: 17px;
+  display: inline-block;
+  width: 171px;
+  height: 21px;
+}
+.div10,
+.div12,
+.div5 {
+  position: absolute;
+  left: 0;
+  width: 204px;
+}
+.div12 {
+  top: 36px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  height: 145px;
+}
+.div10,
+.div5 {
+  top: 519px;
+  height: 181px;
+  overflow: hidden;
+}
+.div5 {
+  top: 0;
+  height: 700px;
+  color: var(--color-white);
+}
+.icons-instagram-1 {
+  top: 13px;
+}
+.icons-1,
+.icons-facebook-1,
+.icons-gmail-1,
+.icons-instagram-1 {
+  position: absolute;
+  left: 8px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.icons-1 {
+  top: calc(50% - 32px);
+}
+.icons-facebook-1,
+.icons-gmail-1 {
+  top: 103px;
+}
+.icons-gmail-1 {
+  top: 148px;
+}
+.div,
+.icons {
+  overflow: hidden;
+}
+.icons {
+  position: absolute;
+  top: 328px;
+  left: 1px;
+  width: 50px;
+  height: 180px;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 700px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
